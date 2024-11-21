@@ -1,14 +1,9 @@
 #!/bin/bash
 
-# Author Name: Francis Rudra D Cruze
-# Author Email: francisrudra@gmail.com
-# Social Media: https://www.linkedin.com/in/rudradcruze/
-# © All rights reserved by rudradcruze - 2023
-
 function head_banner() {
     clear
     banner SMS
-    echo "Developed by (linkedin.com/in/rudradcruze) or '@rudradcruze' [All rights reserved]"
+    echo "Developed by Riyadh, Dipro,  Hera"
 }
 
 function return_function_value() {
